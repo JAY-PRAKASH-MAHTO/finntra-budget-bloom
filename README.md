@@ -25,7 +25,7 @@ A smart and simple personal finance tracker built to help users manage their exp
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Zian-Surani/finntra-budget-bloom.git
+git clone https://github.com/JAY-PRAKASH-MAHTO/finntra-budget-bloom.git
 cd finntra-budget-bloom
 npm install
 npm start
